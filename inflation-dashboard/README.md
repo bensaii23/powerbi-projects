@@ -81,10 +81,6 @@ The Power BI dashboard includes:
   - Maximum inflation
   - Minimum inflation
 
-## Dashboard Preview
-
-![Dashboard Preview](images/dashboard_preview.png)
-
 ## Key Insights
 
 Some insights that can be observed from the dashboard:
